@@ -106,6 +106,7 @@ https://www.yakup.com/news/index.html?mode=view&cat=11&nid=262238
 ### 박소연
 
 ### 송가영, 인용식 
+##### 공통부분
 - 회원가입, 로그인, 마이페이지 담당 및 구현
 - 회원가입 #정규성검사
 - 회원가입 #휴대폰 문자인증(coolsms API)
@@ -115,6 +116,9 @@ https://www.yakup.com/news/index.html?mode=view&cat=11&nid=262238
 - 마이페이지 #정규성검사
 - 마이페이지 #정보수정
 - 마이페이지 #회원탈퇴
+##### 송가영
+-노션 작업일지 및 관리
+-발표 자로 ppt 준비
 
 [//]: # (- 로그인 페이지 # Naver API 활용 로그인)
 [//]: # (- 로그인 페이지 # Google API 활용 로그인)
