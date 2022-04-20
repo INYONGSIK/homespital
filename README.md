@@ -89,7 +89,6 @@ https://www.yakup.com/news/index.html?mode=view&cat=11&nid=262238
 
 ## 팀 구성
 
--
 - [박소연](#박소연)
 - [송가영](#송가영)
 - [신태영](#신태영)
