@@ -88,7 +88,7 @@ https://www.yakup.com/news/index.html?mode=view&cat=11&nid=262238
 
 ## 백앤드 구조
 
-![image](https://user-images.githubusercontent.com/97017840/164167989-242aea34-7ad8-4a08-a8db-782f5eb9ca4d.png)
+![image](https://user-images.githubusercontent.com/97017840/164168800-b3a33dab-f5dd-4167-88d3-fb1c4660aafd.png)
 
 ## 팀 구성
 
