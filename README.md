@@ -143,6 +143,16 @@ https://www.yakup.com/news/index.html?mode=view&cat=11&nid=262238
 ### 이훈
 
 ### 최준근
+-환자,의사,약사 진료리스트 && 진료리스트 상세보기
+-예약하기(시간대별 예약인원 제한/카운트 기능)
+-발표
+
+### 진료리스트 && 상세보기
+![image](https://user-images.githubusercontent.com/97017840/164197080-bc13109a-b520-405c-8551-f521ad287653.png)
+![image](https://user-images.githubusercontent.com/97017840/164196918-5bcdd32e-f7d5-4992-abb8-767538b4d5d7.png)
+![image](https://user-images.githubusercontent.com/97017840/164196870-46b1ba5a-8453-49aa-9803-a090f36d0925.png)
+![image](https://user-images.githubusercontent.com/97017840/164196985-83c79193-7738-40d6-836f-e20881ff150e.png)
+
 
 ### 황인성
 
