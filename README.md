@@ -106,6 +106,13 @@ https://www.yakup.com/news/index.html?mode=view&cat=11&nid=262238
 ### 박소연
 
 ### 송가영 인용식 
+- 회원가입, 로그인, 마이페이지 담당 및 수현
+- 회원가입 #정규성검사
+- 회원가입 #휴대폰 문자인증(coolsms API)
+- 로그인 #비밀번호 찾기 이메일 인증(google SMTP) 
+- 마이페이지 #정보수정
+- 마이페이지 #회원탈퇴
+
 
 ### 회원가입, 로그인, 마이페이지
 ![image](https://user-images.githubusercontent.com/97017840/164169946-eefbe061-1271-4d34-8b81-26328f892a50.png)
