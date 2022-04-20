@@ -115,6 +115,7 @@ https://www.yakup.com/news/index.html?mode=view&cat=11&nid=262238
 - 마이페이지 #정규성검사
 - 마이페이지 #정보수정
 - 마이페이지 #회원탈퇴
+
 [//]: # (- 로그인 페이지 # Naver API 활용 로그인)
 [//]: # (- 로그인 페이지 # Google API 활용 로그인)
 [//]: # (- 로그인 페이지 # Kakao API 활용 로그인)
