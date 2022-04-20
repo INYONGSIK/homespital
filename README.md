@@ -127,7 +127,7 @@ https://www.yakup.com/news/index.html?mode=view&cat=11&nid=262238
 
 ### 회원가입, 로그인, 마이페이지
 ![image](https://user-images.githubusercontent.com/97017840/164183686-7816744d-ca40-4b8a-9771-35b7d744d81e.png)
-![image](https://user-images.githubusercontent.com/97017840/164185783-9afffc3e-3038-4e6a-ba83-e70be2f10400.png)
+![image](https://user-images.githubusercontent.com/97017840/164189377-6b06a696-30ee-49e1-9700-7da73be2280b.png)
 ![image](https://user-images.githubusercontent.com/97017840/164169980-74a10290-1cc0-4c11-9f27-4cccdf4589ac.png)
 ![image](https://user-images.githubusercontent.com/97017840/164170004-4a0665fb-bfe5-40a4-aedd-df23d29fc7e8.png)
 
