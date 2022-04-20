@@ -126,7 +126,7 @@ https://www.yakup.com/news/index.html?mode=view&cat=11&nid=262238
 [//]: # (- 로그인 페이지 # Kakao API 활용 로그인)
 
 ### 회원가입, 로그인, 마이페이지
-![image](https://user-images.githubusercontent.com/97017840/164169946-eefbe061-1271-4d34-8b81-26328f892a50.png)
+![image](https://user-images.githubusercontent.com/97017840/164183686-7816744d-ca40-4b8a-9771-35b7d744d81e.png)
 ![image](https://user-images.githubusercontent.com/97017840/164182333-bd20c011-5b3f-46ea-a3c0-d75e25f4ec59.png)
 ![image](https://user-images.githubusercontent.com/97017840/164169980-74a10290-1cc0-4c11-9f27-4cccdf4589ac.png)
 ![image](https://user-images.githubusercontent.com/97017840/164170004-4a0665fb-bfe5-40a4-aedd-df23d29fc7e8.png)
