@@ -110,10 +110,14 @@ https://www.yakup.com/news/index.html?mode=view&cat=11&nid=262238
 - 회원가입 #정규성검사
 - 회원가입 #휴대폰 문자인증(coolsms API)
 - 회원가입 #주소 입력(juso.go API)
+- 로그인 #정규성 검사
 - 로그인 #비밀번호 찾기 이메일 인증(google SMTP) 
+- 마이페이지 #정규성검사
 - 마이페이지 #정보수정
 - 마이페이지 #회원탈퇴
-
+[//]: # (- 로그인 페이지 # Naver API 활용 로그인)
+[//]: # (- 로그인 페이지 # Google API 활용 로그인)
+[//]: # (- 로그인 페이지 # Kakao API 활용 로그인)
 
 ### 회원가입, 로그인, 마이페이지
 ![image](https://user-images.githubusercontent.com/97017840/164169946-eefbe061-1271-4d34-8b81-26328f892a50.png)
