@@ -157,7 +157,7 @@ https://ovenapp.io/project/r4Wlvg8gvXDtp1XVYSAlFtnwvhguqDXf#xtFHs
 ### 진료과,의료진 선택 및 검색
 ![image](https://user-images.githubusercontent.com/97017840/164222870-651561b9-52b1-4cf8-b292-0e6410aed574.png)
 ![image](https://user-images.githubusercontent.com/97017840/164223382-e09f9659-f4bc-4467-91cf-985df6bc030e.png)
-![image](https://user-images.githubusercontent.com/97017840/164225401-9f009a53-15d4-4cd4-8fb7-1dc43f4e3ef9.png)
+![image](https://user-images.githubusercontent.com/97017840/164225534-77589c66-a49d-4487-8c23-44c47873e33a.png)
 ![image](https://user-images.githubusercontent.com/97017840/164224676-eee3f44d-1e4d-4b2e-b67a-d264336e1feb.png)
 
 ### 원종호
