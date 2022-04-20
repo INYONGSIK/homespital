@@ -109,7 +109,7 @@ https://www.yakup.com/news/index.html?mode=view&cat=11&nid=262238
 - 회원가입, 로그인, 마이페이지 담당 및 구현
 - 회원가입 #정규성검사
 - 회원가입 #휴대폰 문자인증(coolsms API)
-- 회원가입 #주소 입력(juso.go API)
+- 회원가입 #주소 검색(juso.go API)
 - 로그인 #정규성 검사
 - 로그인 #비밀번호 찾기 이메일 인증(google SMTP) 
 - 마이페이지 #정규성검사
