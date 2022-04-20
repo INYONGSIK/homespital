@@ -148,7 +148,7 @@ https://www.yakup.com/news/index.html?mode=view&cat=11&nid=262238
 - 발표
 
 ### 진료리스트 && 상세보기
-![image](https://user-images.githubusercontent.com/97017840/164197626-3ae99e3e-bcae-417d-aa78-8c45ce914284.png)
+![image](https://user-images.githubusercontent.com/97017840/164198346-bda5f8bf-63da-4c9b-a4c1-37a6d90236bc.png)
 ![image](https://user-images.githubusercontent.com/97017840/164196918-5bcdd32e-f7d5-4992-abb8-767538b4d5d7.png)
 ![image](https://user-images.githubusercontent.com/97017840/164196870-46b1ba5a-8453-49aa-9803-a090f36d0925.png)
 ![image](https://user-images.githubusercontent.com/97017840/164196985-83c79193-7738-40d6-836f-e20881ff150e.png)
