@@ -106,7 +106,7 @@ https://www.yakup.com/news/index.html?mode=view&cat=11&nid=262238
 ### 박소연
 - 프로젝트 총괄 - 일정/현황 관리
 - front 레이아웃 설계 - 오븐/디자인
-- https://ovenapp.io/project/r4Wlvg8gvXDtp1XVYSAlFtnwvhguqDXf#xtFHs
+https://ovenapp.io/project/r4Wlvg8gvXDtp1XVYSAlFtnwvhguqDXf#xtFHs
 - 화상채팅기능 && 영상제작
 - 환자 진료리스트 상세보기
 - tiles
